@@ -17,7 +17,7 @@ I'm on a journey to master **Full Stack** and **Mobile Development**.
 
 - 🌈 Love building **clean, responsive, accessible UIs**
 - 🔧 Currently learning **Node.js**, **Express**, and **React Native**
-- 🌌 Fascinated by **animations**, **pixel art**, and **Ghibli-inspired UI themes**
+- 🌌 Fascinated by **animations**, **pixel art**, and **Cartoon-inspired UI themes**
 - 📱 Working on cross-platform experiences with **React** and **Vite**
 
 ---
