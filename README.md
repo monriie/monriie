@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F9A8D4&center=true&vCenter=true&width=500&lines=🌟+Hi,+I'm+Monriie!; FrontEnd+Developer+who+loves+to+build; Exploring+Full+Stack+and+Mobile+too!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F9A8D4&center=true&vCenter=true&width=500&lines=🌟+Hi,+I'm+Monriie!;FrontEnd+Developer+who+loves+to+build;Exploring+Full+Stack+and+Mobile+too!" alt="Typing animation" />
 </p>
  
 <p align="center">Crafting interfaces with heart, and chasing magic in full-stack & mobile realms 🔮</p>
