@@ -1,10 +1,9 @@
 <p align="center">
-  <p align="center">
-  <img src="https://i.pinimg.com/originals/65/78/d0/6578d09eeb6c8663a05d4f9114afb10d.gif" alt="art" width="300" />
+  <img src="https://i.pinimg.com/originals/65/78/d0/6578d09eeb6c8663a05d4f9114afb10d.gif" alt="Howl pixel art" style="width: 100%; max-width: 1000px;" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F9A8D4&center=true&vCenter=true&width=500&lines=🌟+Hi,+I'm+Monriie!;Front-End+Developer+who+loves+to+build;Exploring+Full+Stack+and+Mobile+too!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F9A8D4&center=true&vCenter=true&width=500&lines=🌟+Hi,+I'm+Monriie!; FrontEnd+Developer+who+loves+to+build; Exploring+Full+Stack+and+Mobile+too!" alt="Typing animation" />
 </p>
  
 <p align="center">Crafting interfaces with heart, and chasing magic in full-stack & mobile realms 🔮</p>
